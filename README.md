@@ -5,4 +5,4 @@ https://www.kaggle.com/code/dinhnguyenngoc2/network-intrusion-detection-explaina
 https://www.kaggle.com/datasets/mrwellsdavid/unsw-nb15?select=UNSW_NB15_testing-set.csv
 https://www.kaggle.com/datasets/mrwellsdavid/unsw-nb15?select=UNSW_NB15_training-set.csv
 
-O ficheiro UNSW_NB15_testing-set.csv não pôde ser carregado por ser superior a 25MB
+O ficheiro UNSW_NB15_testing-set.csv não pôde ser carregado por ser superior a 25MB mas poderá ser descarregado nao link público fornecido
