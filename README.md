@@ -1,4 +1,4 @@
-Ficheiros reduzidos gerados pelo autor
+Ficheiros reduzidos gerados a partir dos datasets originais
 Os ficheiros originais são provenientes do Kaggle:
 https://www.kaggle.com/code/dinhnguyenngoc2/network-intrusion-detection-explainable-ai?select=KDDTrain%2B.txt
 https://www.kaggle.com/code/dinhnguyenngoc2/network-intrusion-detection-explainable-ai?select=KDDTest%2B.txt
